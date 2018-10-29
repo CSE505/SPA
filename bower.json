@@ -1,8 +1,8 @@
 {
-    "name":"nareshit",
+    "name":"himanshu",
     "dependencies":{
-        "angular":"~1.5.0",
-        "angular-route":"~1.5.0",
+        "angular":"latest",
+        "angular-route":"latest",
         "bootstrap": "~3.3.7"
     }
 }
