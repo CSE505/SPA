@@ -8,5 +8,5 @@ app.config(function($routeProvider){
   }).otherwise("/pageOne",{
     templateUrl: "templates/pageOne.html",
     controller: "pageOne"
-  });
+  })
 });
