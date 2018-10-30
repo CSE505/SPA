@@ -1,12 +1,12 @@
 app.config(function($routeProvider){
   $routeProvider.when("/pageOne",{
     templateUrl: "templates/pageOne.html",
-    controller: "pageOne",
+    controller: "pageOne"
   }).when("/pageTwo",{
     templateUrl: "templates/pageTwo.html",
-    controller: "pageTwo",
+    controller: "pageTwo"
   }).otherwise("/pageOne",{
     templateUrl: "templates/pageOne.html",
-    controller: "pageOne",
+    controller: "pageOne"
   });
 });
