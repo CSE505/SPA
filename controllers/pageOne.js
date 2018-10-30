@@ -1,3 +1,3 @@
-app.controller("pageOne", ["$scope", function ($scope){
-  $scope.varOne = "I am from pageOne controller";
+app.controller("pageOne", ["$scope", function($scope){
+  $scope.varOne = "My name is Himanshu Shekhar";
 }]);
